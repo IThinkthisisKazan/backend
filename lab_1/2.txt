@@ -1,0 +1,21 @@
+a)
+http://localhost/lw1/mysql_is_a_database_server.html
+-Status Code: 404 Not Found
+Error code - ресурс не существует на сервере
+Решение - добавить файл в директорию
+
+b)
+http://localhost/lw1/nginx_is_fast_http_server.txt
+-Status Code: 200 ОК
+Success code - успешный запрос
+
+c)
+http://localhost/lw1/php_is_a_server_scripting_language.php
+-Status Code: 302 Found
+Redirect - Запрашиваемый ресурс был временно перемещен в указанный в заголовке
+
+d)
+http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly
+- Status Code: 400 Work hard!
+Error code - Плохой запрос от клиента.
+decision: изменить параметры запроса http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hard
